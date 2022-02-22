@@ -14,6 +14,6 @@ System.gc();
 }
 protected void finalize() throws Throwable
 {
-System.out.println("Garbage collection ids done by JVM");
+System.out.println("Garbage collection is done by JVM");
 }
 }
